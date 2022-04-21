@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string name="teddy_bear">Teddy Bear</string>
+    <string name="button">Button</string>
+    <string name="img">IMG</string>
 </resources>

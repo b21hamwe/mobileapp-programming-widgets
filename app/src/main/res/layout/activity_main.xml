@@ -15,7 +15,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Teddy Bear"
+        android:text="@string/teddy_bear"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -27,7 +27,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="@string/button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -36,7 +36,7 @@
         android:layout_marginBottom="80dp"
         />
 
-    <!--- <ImageView
+    <ImageView
          android:id="@+id/imageView"
          android:layout_width="wrap_content"
          android:layout_height="wrap_content"
@@ -45,6 +45,7 @@
          app:layout_constraintLeft_toLeftOf="parent"
          app:layout_constraintRight_toRightOf="parent"
          app:layout_constraintTop_toTopOf="parent"
-         /> -->
+         android:layout_marginTop="20dp"
+         android:contentDescription="@string/img" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
