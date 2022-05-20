@@ -3,11 +3,11 @@
 
 **Skriv din rapport här!**
 
-
-Jag har programmerat om i activity_main.xml filen som finns under layout mappen.
-Här har jag lagt till tre widgets, Image view, textview och en button och designat layouten med
-hjälp av en constraint layout samt margin attributet.
-Detta kan ses i figur 1 nedanför
+Uppgiftens krav var att implementera tre stycken så kallade "Widgets."
+Jag har implementerat om i activity_main.xml filen som finns under layout mappen.
+Här har jag lagt till tre widgets, Image view som representerar en bakgrundsbild, textview som skriver ut en rad text
+och en button alltså en knapp och detta har designat layouten med hjälp av en constraint layout samt margin attributet.
+Exempel kod på detta kan ses i figur 1 nedanför
 
 ``` FIGUR 1
 <Button
