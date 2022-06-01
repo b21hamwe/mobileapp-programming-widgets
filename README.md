@@ -24,3 +24,6 @@ Exempel kod på detta kan ses i figur 1 nedanför
         />
 ```
 
+Bild från duggan. 
+
+![](bild2.png)
